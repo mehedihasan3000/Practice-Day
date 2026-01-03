@@ -1,0 +1,34 @@
+#vid{
+    color: brown;
+    font-size: large;
+    font-weight: 900;
+    display: block;
+    text-align: center;
+}
+
+.vidimage{
+    background-image: url('../images/tao-yuan.jpg');
+    font-size: x-large;
+    background-size: cover;
+    background-position: center;
+}
+
+h2{
+    margin-top: 30px;
+    text-align: center;
+}
+
+button{
+    margin-left: 47%;
+    box-shadow: 2px 3px 5px tomato;
+    font-weight: bold;
+}
+
+.key{
+    margin-left: 60%;
+    margin-top: 30px;
+    background-color: bisque;
+    border: 3px solid yellowgreen;
+    border-radius: 5px;
+    
+}
