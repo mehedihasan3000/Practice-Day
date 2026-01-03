@@ -25,10 +25,9 @@ button{
 }
 
 .key{
-    margin-left: 60%;
     margin-top: 30px;
-    background-color: bisque;
-    border: 3px solid yellowgreen;
-    border-radius: 5px;
+    /* background-color: bisque; */
+    /* border: 3px solid yellowgreen; */
+    /* border-radius: 5px; */
     
 }
